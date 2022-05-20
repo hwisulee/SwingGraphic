@@ -21,7 +21,7 @@
 <h2 id="preview">Preview</h2>
 
 
-1. 실행시 기본적인 화면
+1. 실행시 기본적인 화면 구성
 
 ![graphic](https://user-images.githubusercontent.com/62528282/169549077-ccfe6c24-5ab8-4073-a67d-713a1d82ed57.JPG)
 
