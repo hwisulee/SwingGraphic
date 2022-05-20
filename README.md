@@ -29,13 +29,25 @@
 
 >This Project included this Library and API.
 
-not ready yet
+1. [Java Swing](https://docs.oracle.com/javase/6/docs/api/javax/swing/package-summary.html)
 
 <h2 id="license">License</h2>
 
 >Library and API has this Licenses
 
-not ready yet
+1. Java Swing
+
+JSR-000270 JavaTM SE 6 Release Contents Maintenance Release
+Specification: JSR-000270 Java(tm) SE 6 ("Specification")
+Version: 6.1
+Status: Maintenance Release 1
+Specification Lead: Oracle America, Inc. ("Specification Lead")
+Release: March 2015
+Copyright 2015 Oracle America, Inc. ("Oracle")
+500 Oracle Parkway, Redwood City, CA 94065, U.S.A
+All rights reserved.
+
+[More Information](https://download.oracle.com/otndocs/jcp/java_se-6-mrel-spec/license.html)
 
 <br>
 
